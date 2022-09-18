@@ -12,6 +12,7 @@ export default function HomeTemplate({}: Props) {
     <>
       <Header />
       <Outlet />
+      
     </>
   );
 }
